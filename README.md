@@ -1,5 +1,5 @@
 # NITD-college-Project
-Summer project 2020 under Prof. Subrata Nandi 
+Summer project 2020 under Prof. Subrata Nandi, Dept. of Computer Science, NIT Durgapur
 
 ### Target
 Time Series forecasting using LSTM.
